@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_87047_test1.test1_admin" name="x_87047_test1.test1_admin">e19f26bbdbe61010598bb298f496197e</contains>
+        <role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-17 18:12:52</sys_created_on>
+        <sys_id>7d00fe7bdbe61010598bb298f49619f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_87047_test1.test1_admin.admin</sys_name>
+        <sys_package display_value="test1" source="x_87047_test1">7e8f22bbdbe61010598bb298f4961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test1">7e8f22bbdbe61010598bb298f4961905</sys_scope>
+        <sys_update_name>sys_user_role_contains_7d00fe7bdbe61010598bb298f49619f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-17 18:12:52</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
